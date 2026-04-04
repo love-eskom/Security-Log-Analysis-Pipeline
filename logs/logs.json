@@ -1,0 +1,13 @@
+[
+    {
+        "type": "Brute Force",
+        "ip": "192.168.1.194",
+        "severity": "HIGH"
+    },
+    {
+        "type": "PowerShell Execution",
+        "user": "admin",
+        "time": "2026-03-01 23:50:10",
+        "severity": "HIGH"
+    }
+]
