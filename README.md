@@ -1,5 +1,10 @@
 # 🔐 Python SOC Detection System
+LAB-003
 
+PYTHON SOC DETECTION SYSTEM
+
+BUILD • DETECT • DEFEND
+---
 ## 📌 Overview
 
 This project is a **Security Operations Center (SOC) simulation tool** built in Python. It generates logs, parses them into structured data, and detects suspicious activities such as brute force attacks and malicious command execution.
