@@ -2,7 +2,7 @@
 <div align="center">
 
 # Security Log Analysis Pipeline
-
+LAB-003
 A Python-based security monitoring simulation for
 log generation, event analysis, threat detection
 and automated alert reporting.
